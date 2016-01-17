@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInACircle\bin\Debug\pointInACircle.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInACircle\bin\Debug\pointInACircle.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInACircle\bin\Debug\pointInACircle.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInACircle\obj\Debug\pointInACircle.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInACircle\obj\Debug\pointInACircle.pdb

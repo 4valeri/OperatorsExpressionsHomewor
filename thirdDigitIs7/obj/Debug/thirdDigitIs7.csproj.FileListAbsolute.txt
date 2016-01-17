@@ -1,0 +1,6 @@
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\thirdDigitIs7\bin\Debug\thirdDigitIs7.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\thirdDigitIs7\bin\Debug\thirdDigitIs7.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\thirdDigitIs7\bin\Debug\thirdDigitIs7.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\thirdDigitIs7\obj\Debug\thirdDigitIs7.csprojResolveAssemblyReference.cache
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\thirdDigitIs7\obj\Debug\thirdDigitIs7.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\thirdDigitIs7\obj\Debug\thirdDigitIs7.pdb

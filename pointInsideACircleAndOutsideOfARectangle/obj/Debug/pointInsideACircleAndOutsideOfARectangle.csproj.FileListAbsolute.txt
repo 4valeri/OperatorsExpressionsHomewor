@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInsideACircleAndOutsideOfARectangle\bin\Debug\pointInsideACircleAndOutsideOfARectangle.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInsideACircleAndOutsideOfARectangle\bin\Debug\pointInsideACircleAndOutsideOfARectangle.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInsideACircleAndOutsideOfARectangle\bin\Debug\pointInsideACircleAndOutsideOfARectangle.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInsideACircleAndOutsideOfARectangle\obj\Debug\pointInsideACircleAndOutsideOfARectangle.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\pointInsideACircleAndOutsideOfARectangle\obj\Debug\pointInsideACircleAndOutsideOfARectangle.pdb
