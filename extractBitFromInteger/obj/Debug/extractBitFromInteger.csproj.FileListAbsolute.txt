@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\extractBitFromInteger\bin\Debug\extractBitFromInteger.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\extractBitFromInteger\bin\Debug\extractBitFromInteger.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\extractBitFromInteger\bin\Debug\extractBitFromInteger.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\extractBitFromInteger\obj\Debug\extractBitFromInteger.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\extractBitFromInteger\obj\Debug\extractBitFromInteger.pdb

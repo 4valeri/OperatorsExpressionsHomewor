@@ -1,0 +1,6 @@
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\bitwize\bin\Debug\bitwize.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\bitwize\bin\Debug\bitwize.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\bitwize\bin\Debug\bitwize.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\bitwize\obj\Debug\bitwize.csprojResolveAssemblyReference.cache
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\bitwize\obj\Debug\bitwize.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\bitwize\obj\Debug\bitwize.pdb

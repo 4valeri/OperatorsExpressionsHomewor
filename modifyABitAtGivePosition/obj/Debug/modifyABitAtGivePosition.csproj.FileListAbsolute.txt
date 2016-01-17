@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\modifyABitAtGivePosition\bin\Debug\modifyABitAtGivePosition.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\modifyABitAtGivePosition\bin\Debug\modifyABitAtGivePosition.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\modifyABitAtGivePosition\bin\Debug\modifyABitAtGivePosition.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\modifyABitAtGivePosition\obj\Debug\modifyABitAtGivePosition.exe
+c:\users\valeri\documents\visual studio 2015\Projects\OperatorsExpressionsHomework\modifyABitAtGivePosition\obj\Debug\modifyABitAtGivePosition.pdb
